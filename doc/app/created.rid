@@ -1,0 +1,6 @@
+Mon, 29 Oct 2012 15:11:54 +0100
+doc/README_FOR_APP	Mon, 29 Oct 2012 10:49:03 +0100
+app/controllers/application_controller.rb	Mon, 29 Oct 2012 10:49:02 +0100
+app/controllers/static_pages_controller.rb	Mon, 29 Oct 2012 15:09:56 +0100
+app/helpers/application_helper.rb	Mon, 29 Oct 2012 10:49:02 +0100
+app/helpers/static_pages_helper.rb	Mon, 29 Oct 2012 15:09:56 +0100
